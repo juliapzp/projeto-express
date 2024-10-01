@@ -7,5 +7,11 @@ body {
   }
 
   h1 {
-    color: #0056b3;
+    font-size: 80px;
+    color: #8900b3;
+  }
+
+  a {
+    outline: none;
+    text-decoration: none;
   }
